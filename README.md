@@ -1,5 +1,3 @@
-### sypXwmc
-
 # Website TBD
 
 [proposal]()
