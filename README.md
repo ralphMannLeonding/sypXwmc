@@ -1,5 +1,5 @@
 # Website TBD
 
-[proposal]()
+[proposal](https://github.com/ralphMannLeonding/sypXwmc/blob/main/ProjectProposal_Mann.pdf)
 
-[backlog]()
+[backlog](https://github.com/ralphMannLeonding/sypXwmc/blob/main/backlog.md)
