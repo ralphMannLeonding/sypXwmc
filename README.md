@@ -7,7 +7,7 @@ This project is currently under development, and I aim to make learning about IT
 
 As I build the site, here's a sneak peek at what I am working on:
 
-[proposal](https://github.com/ralphMannLeonding/sypXwmc/blob/main/ProjectProposal_Mann.pdf)
+[proposal](https://github.com/ralphMannLeonding/sypXwmc/blob/main/project_proposal.pdf)
 
 [backlog](https://github.com/ralphMannLeonding/sypXwmc/blob/main/backlog.md)
 
